@@ -2,6 +2,8 @@
 
 [安装使用electron](https://www.cnblogs.com/sunshine-blog/p/9915222.html)
 
+[electron中文教程](https://weishuai.gitbooks.io/electron-/content/)
+
 ## 2、electron 相关 api
 
 ### 1. 创建一个窗体
